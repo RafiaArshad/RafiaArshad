@@ -21,7 +21,7 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle">
-    <img src="www.linkedin.com/in/rafia-arshad-486326284" />
+  <a href="www.linkedin.com/in/rafia-arshad-486326284">
+    <img src="https://img.shields.io/badge/LinkedIn-A8C6DF?style=for-the-badge&logo=linkedin&logoColor=333333" />
   </a>
 </p>
