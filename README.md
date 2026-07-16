@@ -22,10 +22,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourhandle">
-    <img src="https://img.shields.io/badge/LinkedIn-A8C6DF?style=for-the-badge&logo=linkedin&logoColor=333333" />
+    <img src="www.linkedin.com/in/rafia-arshad-486326284" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=b39cd0&style=flat-square&label=Profile+Views" />
 </p>
